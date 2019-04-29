@@ -1,0 +1,27 @@
+name: scrollable_flutter_web_view_example
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #responsive_container is required to make webview_flutter paint sensibly
+  responsive_container: ">=0.0.1"
+
+  webview_flutter: ">=0.3.3"
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
