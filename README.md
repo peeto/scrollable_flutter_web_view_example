@@ -1,6 +1,6 @@
 # scrollable_flutter_web_view_example
 
-An example of how to use a WebView in a ListView. It was create to show how to overcome some limitations.
+An example of how to use a WebView in a ListView. It was created to show how to overcome some limitations.
 
 ## Getting Started
 
