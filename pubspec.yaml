@@ -10,6 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  #overlay_container is required to make webview_flutter not overlay in iOS
+  overlay_container: ^0.0.3+1
+
   #responsive_container is required to make webview_flutter paint sensibly
   responsive_container: ">=0.0.1"
 
